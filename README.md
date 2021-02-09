@@ -1,3 +1,3 @@
-# Link to se the proyect
+# Link to see the proyect
 
 https://breaking-bad-ten.vercel.app/
