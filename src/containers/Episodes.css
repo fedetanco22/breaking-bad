@@ -1,0 +1,18 @@
+.header-episodes{
+    width: 100%;
+    height: 400px;
+    background-image: url("https://dg31sz3gwrwan.cloudfront.net/fanart/81189/406321-0-q80.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #272626;
+    background-blend-mode: soft-light;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-episodes h1{
+    color: #fff;
+}
